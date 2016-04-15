@@ -1,2 +1,4 @@
 this file to discripe first commit for the git project
-new comments
+commnet instead of old one
+new other line
+
